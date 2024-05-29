@@ -1,130 +1,129 @@
-﻿web-scraper-order,web-scraper-start-url,nameLink,nameLink-href,name
-"1716865715-1","https://directory.churchofjesuschrist.org/374768","Zúñiga, Susi","https://directory.churchofjesuschrist.org/374768/households/25d13c2b-bc50-4586-83fb-a30fb92bca44","Susi Zúñiga"
-"1716865718-2","https://directory.churchofjesuschrist.org/374768","Zúñiga, Francisco hijo","https://directory.churchofjesuschrist.org/374768/households/3b02f436-9fc9-4204-a2c6-a589eaf66860","Francisco Zúñiga hijo"
-"1716865720-3","https://directory.churchofjesuschrist.org/374768","Zuñiga Becerra, Francisco & Rosalba","https://directory.churchofjesuschrist.org/374768/households/a6cb37a3-b6e6-4665-9587-fd468bb35c3f","Francisco Zúñiga"
-"1716865720-4","https://directory.churchofjesuschrist.org/374768","Zuñiga Becerra, Francisco & Rosalba","https://directory.churchofjesuschrist.org/374768/households/a6cb37a3-b6e6-4665-9587-fd468bb35c3f","Rosalba Zúñiga"
-"1716865722-5","https://directory.churchofjesuschrist.org/374768","Zuniga Becerra, Alejandro & Mariaelena","https://directory.churchofjesuschrist.org/374768/households/bc67f71d-5a94-4884-a11a-432c36391538","Alejandro Zúñiga"
-"1716865722-6","https://directory.churchofjesuschrist.org/374768","Zuniga Becerra, Alejandro & Mariaelena","https://directory.churchofjesuschrist.org/374768/households/bc67f71d-5a94-4884-a11a-432c36391538","Mariaelena Zuñiga"
-"1716865722-7","https://directory.churchofjesuschrist.org/374768","Zuniga Becerra, Alejandro & Mariaelena","https://directory.churchofjesuschrist.org/374768/households/bc67f71d-5a94-4884-a11a-432c36391538","Adofo Zuñiga H"
-"1716865724-8","https://directory.churchofjesuschrist.org/374768","Zanni Morales, Nicolas","https://directory.churchofjesuschrist.org/374768/households/536c9727-f05a-7584-e053-675c3d0af8fa","Nicolas Zanni Morales"
-"1716865727-9","https://directory.churchofjesuschrist.org/374768","Villalta Licona, Reina Elizabeth","https://directory.churchofjesuschrist.org/374768/households/9c17e811-7db6-4feb-9d1a-472976443e1c","Reina Elizabeth Villalta Licona"
-"1716865729-10","https://directory.churchofjesuschrist.org/374768","Victor, Victor & Jaqueline","https://directory.churchofjesuschrist.org/374768/households/469171ee-003a-4e9f-99e6-4f0d24481120","Victor Garcia"
-"1716865729-11","https://directory.churchofjesuschrist.org/374768","Victor, Victor & Jaqueline","https://directory.churchofjesuschrist.org/374768/households/469171ee-003a-4e9f-99e6-4f0d24481120","Jaqueline Garcia"
-"1716865731-12","https://directory.churchofjesuschrist.org/374768","Vera, Luz","https://directory.churchofjesuschrist.org/374768/households/d6641603-44e8-4aa6-b027-58ee0ff4ef86","Luz Vera"
-"1716865734-13","https://directory.churchofjesuschrist.org/374768","Vera Ramirez, Oscar J & Paloma","https://directory.churchofjesuschrist.org/374768/households/7c4093cb-92e0-4271-8292-e59a3ea2bc06","Oscar J Rojo Moreno"
-"1716865734-14","https://directory.churchofjesuschrist.org/374768","Vera Ramirez, Oscar J & Paloma","https://directory.churchofjesuschrist.org/374768/households/7c4093cb-92e0-4271-8292-e59a3ea2bc06","Paloma Vera"
-"1716865736-15","https://directory.churchofjesuschrist.org/374768","Vallejos, Santiago","https://directory.churchofjesuschrist.org/374768/households/cb1993d5-8455-4e8b-94d5-8374fca98db5","Santiago Vallejos"
-"1716865739-16","https://directory.churchofjesuschrist.org/374768","Valendia, Estefany","https://directory.churchofjesuschrist.org/374768/households/73ad155f-f803-4d25-9540-1bc14b61a1f0","Estefany Valendia"
-"1716865741-17","https://directory.churchofjesuschrist.org/374768","Trejo, Julio","https://directory.churchofjesuschrist.org/374768/households/e6d13791-69aa-4d31-a5d8-8d1563beff36","Julio Trejo"
-"1716865743-18","https://directory.churchofjesuschrist.org/374768","Trejo-Rangel, Ivan & Fabiola","https://directory.churchofjesuschrist.org/374768/households/a1e8986f-b19f-4f2e-9882-be671399780c","Ivan Trejo"
-"1716865743-19","https://directory.churchofjesuschrist.org/374768","Trejo-Rangel, Ivan & Fabiola","https://directory.churchofjesuschrist.org/374768/households/a1e8986f-b19f-4f2e-9882-be671399780c","Fabiola Trejo"
-"1716865745-20","https://directory.churchofjesuschrist.org/374768","Trejo-Rangel, César & Jenny","https://directory.churchofjesuschrist.org/374768/households/9a4dfa1b-ff2c-43c4-82d0-c200dc0ac363","César Trejo"
-"1716865745-21","https://directory.churchofjesuschrist.org/374768","Trejo-Rangel, César & Jenny","https://directory.churchofjesuschrist.org/374768/households/9a4dfa1b-ff2c-43c4-82d0-c200dc0ac363","Jenny Trejo"
-"1716865748-22","https://directory.churchofjesuschrist.org/374768","Temple, Michael & Jenny Vidal","https://directory.churchofjesuschrist.org/374768/households/2d9557eb-0c57-4644-a5a6-a6b018f1b3c0","Michael Temple"
-"1716865748-23","https://directory.churchofjesuschrist.org/374768","Temple, Michael & Jenny Vidal","https://directory.churchofjesuschrist.org/374768/households/2d9557eb-0c57-4644-a5a6-a6b018f1b3c0","Jenny Vidal Temple"
-"1716865750-24","https://directory.churchofjesuschrist.org/374768","Soto, Fernando","https://directory.churchofjesuschrist.org/374768/households/f19d6fb0-5eba-4f3e-9cdd-459be7849269","Fernando Soto"
-"1716865752-25","https://directory.churchofjesuschrist.org/374768","Somarriba, Darling","https://directory.churchofjesuschrist.org/374768/households/2e9e31a2-699f-4f31-9379-f107f7054dfd","Darling Somarriba"
-"1716865757-26","https://directory.churchofjesuschrist.org/374768","Sion Salgado, Josue & Thania","https://directory.churchofjesuschrist.org/374768/households/80d22563-f139-4ac8-89dc-e5159cc53c8f","Josue Sion"
-"1716865757-27","https://directory.churchofjesuschrist.org/374768","Sion Salgado, Josue & Thania","https://directory.churchofjesuschrist.org/374768/households/80d22563-f139-4ac8-89dc-e5159cc53c8f","Thania Sion"
-"1716865760-28","https://directory.churchofjesuschrist.org/374768","Segundo, Arturo","https://directory.churchofjesuschrist.org/374768/households/75d64671-45a8-48e7-af21-16d43b09198a","Arturo Segundo"
-"1716865762-29","https://directory.churchofjesuschrist.org/374768","Sánchez, Tasha","https://directory.churchofjesuschrist.org/374768/households/cf509ea0-a91d-4b51-980b-ac89094d5845","Tasha Sánchez"
-"1716865764-30","https://directory.churchofjesuschrist.org/374768","Salvador, José","https://directory.churchofjesuschrist.org/374768/households/da7a6361-21f3-4b27-b12f-2ce757b1a681","José Salvador"
-"1716865766-31","https://directory.churchofjesuschrist.org/374768","Salinas Sanchez, Richard & Emily","https://directory.churchofjesuschrist.org/374768/households/b98ea344-c9a2-49fe-b651-0198daf52316","Richard Salinas"
-"1716865766-32","https://directory.churchofjesuschrist.org/374768","Salinas Sanchez, Richard & Emily","https://directory.churchofjesuschrist.org/374768/households/b98ea344-c9a2-49fe-b651-0198daf52316","Emily Salinas"
-"1716865769-33","https://directory.churchofjesuschrist.org/374768","Ruiz Segovia, Johan & Monica","https://directory.churchofjesuschrist.org/374768/households/ddeb35c6-e956-4d39-93c7-77688486d155","Johan Ruiz"
-"1716865769-34","https://directory.churchofjesuschrist.org/374768","Ruiz Segovia, Johan & Monica","https://directory.churchofjesuschrist.org/374768/households/ddeb35c6-e956-4d39-93c7-77688486d155","Monica Ruiz"
-"1716865771-35","https://directory.churchofjesuschrist.org/374768","Rosas Burgos, Braulio & Yadira Lopez de","https://directory.churchofjesuschrist.org/374768/households/8ef007e5-83d1-4e3c-97c0-b5a89c4c6706","Braulio Rosas"
-"1716865771-36","https://directory.churchofjesuschrist.org/374768","Rosas Burgos, Braulio & Yadira Lopez de","https://directory.churchofjesuschrist.org/374768/households/8ef007e5-83d1-4e3c-97c0-b5a89c4c6706","Yadira Lopez de Rosas"
-"1716865773-37","https://directory.churchofjesuschrist.org/374768","Rosales, Hector","https://directory.churchofjesuschrist.org/374768/households/88dec56d-0df2-4fe2-b414-39062f55d3fa","Hector Rosales"
-"1716865776-38","https://directory.churchofjesuschrist.org/374768","Rondon, Carmen","https://directory.churchofjesuschrist.org/374768/households/6c1b8b18-2e8e-47fa-8226-0bf3d48c18b8","Carmen Rondon"
-"1716865778-39","https://directory.churchofjesuschrist.org/374768","Quiroz, Ligia","https://directory.churchofjesuschrist.org/374768/households/e92e8a25-913e-43a5-a9bb-6e23b8773576","Ligia Quiroz"
-"1716865780-40","https://directory.churchofjesuschrist.org/374768","Quiroz, Estela","https://directory.churchofjesuschrist.org/374768/households/a2e9d605-1d3e-4c47-9312-8cb4ce651c0d","Estela Quiroz"
-"1716865782-41","https://directory.churchofjesuschrist.org/374768","Pinto Aguila, Henry & María José","https://directory.churchofjesuschrist.org/374768/households/958022db-785c-403d-8561-27dbf2cdd345","Henry Pinto"
-"1716865782-42","https://directory.churchofjesuschrist.org/374768","Pinto Aguila, Henry & María José","https://directory.churchofjesuschrist.org/374768/households/958022db-785c-403d-8561-27dbf2cdd345","María José Pinto"
-"1716865785-43","https://directory.churchofjesuschrist.org/374768","Perfetti, Gonzalo","https://directory.churchofjesuschrist.org/374768/households/fa9bff94-8bf9-4fed-bdd3-f72be207a8bb","Gonzalo Perfetti"
-"1716865787-44","https://directory.churchofjesuschrist.org/374768","Parkus Riquelme, Daniel & Cindy","https://directory.churchofjesuschrist.org/374768/households/f91a7be5-d8b1-4579-9d28-9d12c56d5d44","Daniel Parkus"
-"1716865787-45","https://directory.churchofjesuschrist.org/374768","Parkus Riquelme, Daniel & Cindy","https://directory.churchofjesuschrist.org/374768/households/f91a7be5-d8b1-4579-9d28-9d12c56d5d44","Cindy Parkus"
-"1716865789-46","https://directory.churchofjesuschrist.org/374768","Pacheco, Omaira","https://directory.churchofjesuschrist.org/374768/households/8ef4a89e-690b-489e-b669-a3bde96b3528","Omaira Pacheco"
-"1716865791-47","https://directory.churchofjesuschrist.org/374768","Pablo, Rosario","https://directory.churchofjesuschrist.org/374768/households/22cab246-51bb-4920-958e-63e616e5aab8","Rosario Pablo"
-"1716865791-48","https://directory.churchofjesuschrist.org/374768","Pablo, Rosario","https://directory.churchofjesuschrist.org/374768/households/22cab246-51bb-4920-958e-63e616e5aab8","Arlette Morales-Pablo"
-"1716865794-49","https://directory.churchofjesuschrist.org/374768","Navarro, Juan & Darey","https://directory.churchofjesuschrist.org/374768/households/2dc7cf4c-4895-4fdb-ab20-5308c82743fe","Juan Navarro"
-"1716865794-50","https://directory.churchofjesuschrist.org/374768","Navarro, Juan & Darey","https://directory.churchofjesuschrist.org/374768/households/2dc7cf4c-4895-4fdb-ab20-5308c82743fe","Darey Navarro"
-"1716865794-51","https://directory.churchofjesuschrist.org/374768","Navarro, Juan & Darey","https://directory.churchofjesuschrist.org/374768/households/2dc7cf4c-4895-4fdb-ab20-5308c82743fe","Juan Navarro hijo"
-"1716865796-52","https://directory.churchofjesuschrist.org/374768","Muñoz, Germán","https://directory.churchofjesuschrist.org/374768/households/a3eaae8a-1152-4191-aaa0-b8c913042858","Germán Muñoz"
-"1716865798-53","https://directory.churchofjesuschrist.org/374768","Muchacho, Alonso","https://directory.churchofjesuschrist.org/374768/households/68bf61d8-72d0-41e4-8c67-640fe91aa4ed","Alonso Muchacho"
-"1716865800-54","https://directory.churchofjesuschrist.org/374768","Moreno, Maria","https://directory.churchofjesuschrist.org/374768/households/b28f660a-027e-459b-b417-4080b773a257","Maria Moreno"
-"1716865804-55","https://directory.churchofjesuschrist.org/374768","Morales, Mickell","https://directory.churchofjesuschrist.org/374768/households/6820901d-21fb-4b35-a5ec-51ae350b0983","Mickell Morales"
-"1716865806-56","https://directory.churchofjesuschrist.org/374768","Morales-Pablo, Cynthia","https://directory.churchofjesuschrist.org/374768/households/e52e2a02-4175-4efc-9785-83355256609b","Cynthia Morales-Pablo"
-"1716865808-57","https://directory.churchofjesuschrist.org/374768","Menendez, Marlon","https://directory.churchofjesuschrist.org/374768/households/7a990e97-ebf3-4907-a16c-8efebd5ec2a2","Marlon Menendez"
-"1716865811-58","https://directory.churchofjesuschrist.org/374768","Mencia, Patricia","https://directory.churchofjesuschrist.org/374768/households/8fa2b8cc-9166-4a36-98a9-4e1a476ce091","Patricia Mencia"
-"1716865813-59","https://directory.churchofjesuschrist.org/374768","Mencia, Daniela","https://directory.churchofjesuschrist.org/374768/households/9798b398-74f6-41d0-8ee5-5db6e43dfc29","Daniela Mencia"
-"1716865815-60","https://directory.churchofjesuschrist.org/374768","Martinez, Kathy","https://directory.churchofjesuschrist.org/374768/households/0357a409-b365-4779-a304-40db08d075ca","Kathy Martinez"
-"1716865818-61","https://directory.churchofjesuschrist.org/374768","Martinez, Jose","https://directory.churchofjesuschrist.org/374768/households/4f0b7cdd-eabd-4deb-9b71-6612baacb47c","Jose Martinez"
-"1716865820-62","https://directory.churchofjesuschrist.org/374768","Martinez, Axel","https://directory.churchofjesuschrist.org/374768/households/11daa3de-f716-4e06-82f2-4bf4daf37709","Axel Martinez"
-"1716865822-63","https://directory.churchofjesuschrist.org/374768","Marquina, Maria","https://directory.churchofjesuschrist.org/374768/households/b01a6fd8-9b72-4991-b353-e9b49c5ef159","Maria Marquina"
-"1716865824-64","https://directory.churchofjesuschrist.org/374768","Marquez, Carlos A & Sorayda","https://directory.churchofjesuschrist.org/374768/households/b3bedf4b-9868-4121-a687-0b0dd5559757","Carlos A Marquez"
-"1716865824-65","https://directory.churchofjesuschrist.org/374768","Marquez, Carlos A & Sorayda","https://directory.churchofjesuschrist.org/374768/households/b3bedf4b-9868-4121-a687-0b0dd5559757","Sorayda Marquez"
-"1716865827-66","https://directory.churchofjesuschrist.org/374768","Lozano Calixto, Amador & Ana","https://directory.churchofjesuschrist.org/374768/households/67012563-54b5-420e-9284-a7a7eb16b1a1","Amador Lozano"
-"1716865827-67","https://directory.churchofjesuschrist.org/374768","Lozano Calixto, Amador & Ana","https://directory.churchofjesuschrist.org/374768/households/67012563-54b5-420e-9284-a7a7eb16b1a1","Ana Lozano"
-"1716865827-68","https://directory.churchofjesuschrist.org/374768","Lozano Calixto, Amador & Ana","https://directory.churchofjesuschrist.org/374768/households/67012563-54b5-420e-9284-a7a7eb16b1a1","Esmeralda Lozano"
-"1716865829-69","https://directory.churchofjesuschrist.org/374768","Lopez, Diana","https://directory.churchofjesuschrist.org/374768/households/1203e760-3fcd-4f88-bf61-f68b95abd211","Diana Lopez"
-"1716865831-70","https://directory.churchofjesuschrist.org/374768","Lopez, Daniela","https://directory.churchofjesuschrist.org/374768/households/171906f5-9ddc-49cc-bc15-6bc5d947f141","Daniela Lopez"
-"1716865834-71","https://directory.churchofjesuschrist.org/374768","Lopez, Carlos & Bessy Velasquez de","https://directory.churchofjesuschrist.org/374768/households/018dd12b-21ab-411b-b128-b395184ea2a9","Carlos Lopez"
-"1716865834-72","https://directory.churchofjesuschrist.org/374768","Lopez, Carlos & Bessy Velasquez de","https://directory.churchofjesuschrist.org/374768/households/018dd12b-21ab-411b-b128-b395184ea2a9","Bessy Velasquez de Lopez"
-"1716865836-73","https://directory.churchofjesuschrist.org/374768","Lopez Funez, Rolando & Gladis","https://directory.churchofjesuschrist.org/374768/households/46f0820f-bfd3-47a1-8b66-3fd4748ba0fa","Rolando Lopez"
-"1716865836-74","https://directory.churchofjesuschrist.org/374768","Lopez Funez, Rolando & Gladis","https://directory.churchofjesuschrist.org/374768/households/46f0820f-bfd3-47a1-8b66-3fd4748ba0fa","Gladis Lopez"
-"1716865838-75","https://directory.churchofjesuschrist.org/374768","Lizama, José","https://directory.churchofjesuschrist.org/374768/households/1990d667-86c6-42fe-8094-44b02fb4d119","José Lizama"
-"1716865840-76","https://directory.churchofjesuschrist.org/374768","Labrousse, Casimir","https://directory.churchofjesuschrist.org/374768/households/5b6181f8-cc98-4921-bdee-dc397d1ba4f9","Casimir Labrousse"
-"1716865843-77","https://directory.churchofjesuschrist.org/374768","Jimenez Suarez, Jose Carlos & Alejandra Jimenez de","https://directory.churchofjesuschrist.org/374768/households/a521fe75-6af6-45c2-bc89-6f0af3a6a62a","Jose Carlos Martinez Morales"
-"1716865843-78","https://directory.churchofjesuschrist.org/374768","Jimenez Suarez, Jose Carlos & Alejandra Jimenez de","https://directory.churchofjesuschrist.org/374768/households/a521fe75-6af6-45c2-bc89-6f0af3a6a62a","Alejandra Jimenez de Martinez"
-"1716865845-79","https://directory.churchofjesuschrist.org/374768","Jerez, Tony","https://directory.churchofjesuschrist.org/374768/households/161a574c-066b-4634-a8fb-018ed66ffe87","Tony Jerez"
-"1716865847-80","https://directory.churchofjesuschrist.org/374768","Hernández, Manuel","https://directory.churchofjesuschrist.org/374768/households/46b97b04-be5e-4e54-8935-1a63e55ab25f","Manuel Hernández"
-"1716865849-81","https://directory.churchofjesuschrist.org/374768","Hernandez, Elena","https://directory.churchofjesuschrist.org/374768/households/7f0da46a-bcc8-47a7-a482-c0cd7fdbbf54","Elena Hernandez"
-"1716865852-82","https://directory.churchofjesuschrist.org/374768","Hernandez, Argemiro","https://directory.churchofjesuschrist.org/374768/households/2feedd66-5e41-48be-8d97-d4d7557b4eee","Argemiro Hernandez"
-"1716865854-83","https://directory.churchofjesuschrist.org/374768","Hernandez Gil, Jimmy","https://directory.churchofjesuschrist.org/374768/households/e4428297-12ca-4151-b559-7157d54bd6e4","Jimmy Hernandez Gil"
-"1716865856-84","https://directory.churchofjesuschrist.org/374768","Hernandez Aranda, Danny & Nicole","https://directory.churchofjesuschrist.org/374768/households/79880794-415a-44ef-b5ea-2e3ee5bc5082","Danny Reyes"
-"1716865856-85","https://directory.churchofjesuschrist.org/374768","Hernandez Aranda, Danny & Nicole","https://directory.churchofjesuschrist.org/374768/households/79880794-415a-44ef-b5ea-2e3ee5bc5082","Nicole Reyes"
-"1716865859-86","https://directory.churchofjesuschrist.org/374768","Guzman, Reynaldo & San Juanita","https://directory.churchofjesuschrist.org/374768/households/06fa68b7-98cb-484c-b6dc-bda8ed05b4ec","Reynaldo Guzman Jr."
-"1716865859-87","https://directory.churchofjesuschrist.org/374768","Guzman, Reynaldo & San Juanita","https://directory.churchofjesuschrist.org/374768/households/06fa68b7-98cb-484c-b6dc-bda8ed05b4ec","San Juanita Guzman"
-"1716865861-88","https://directory.churchofjesuschrist.org/374768","Gonzalez, Marie Claire","https://directory.churchofjesuschrist.org/374768/households/4cf51be5-8930-4b66-a332-f1d18f2baedb","Marie Claire Gonzalez"
-"1716865863-89","https://directory.churchofjesuschrist.org/374768","Gonzales, Rubén","https://directory.churchofjesuschrist.org/374768/households/558bf8f7-11c1-4031-80e9-c996eb7f6984","Rubén Gonzales"
-"1716865865-90","https://directory.churchofjesuschrist.org/374768","Gil Pinto, Sandra","https://directory.churchofjesuschrist.org/374768/households/e793c87a-ffcd-43ae-82c9-df9eeb810dff","Sandra Gil Pinto"
-"1716865868-91","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Joel Gardner"
-"1716865868-92","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Katie Gardner"
-"1716865868-93","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Carolyn Gardner"
-"1716865868-94","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Christina Gardner"
-"1716865868-95","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Elizabeth Gardner"
-"1716865868-96","https://directory.churchofjesuschrist.org/374768","Gardner, Joel & Katie","https://directory.churchofjesuschrist.org/374768/households/b2e5c609-f941-470f-8c6c-9cb2ee2f6cfe","Peter Gardner"
-"1716865870-97","https://directory.churchofjesuschrist.org/374768","Galdamez, David & Karla","https://directory.churchofjesuschrist.org/374768/households/03ef43bb-acfd-491d-b025-2e443e06f38f","David Galdamez"
-"1716865870-98","https://directory.churchofjesuschrist.org/374768","Galdamez, David & Karla","https://directory.churchofjesuschrist.org/374768/households/03ef43bb-acfd-491d-b025-2e443e06f38f","Karla Galdamez"
-"1716865872-99","https://directory.churchofjesuschrist.org/374768","Durán, Juan","https://directory.churchofjesuschrist.org/374768/households/08f9c61a-53e3-4c9c-a19a-52f75c9695f8","Juan Durán"
-"1716865874-100","https://directory.churchofjesuschrist.org/374768","Destine, Nelky","https://directory.churchofjesuschrist.org/374768/households/18a28dca-3057-4a74-b394-cb776b604ebc","Nelky Destine"
-"1716865877-101","https://directory.churchofjesuschrist.org/374768","Del Castillo, Adriana","https://directory.churchofjesuschrist.org/374768/households/474b17c1-3d05-4fef-a553-33f42b6c134a","Adriana Del Castillo"
-"1716865879-102","https://directory.churchofjesuschrist.org/374768","Cepeda, Ana Luisa","https://directory.churchofjesuschrist.org/374768/households/e0a388db-96d0-466d-bced-ca03f7f6c5ef","Ana Luisa Cepeda"
-"1716865881-103","https://directory.churchofjesuschrist.org/374768","Castro Velazquez, José & Cecilia","https://directory.churchofjesuschrist.org/374768/households/0bf89fa7-c35b-4286-9a96-79dd730440e6","José Navarrete"
-"1716865881-104","https://directory.churchofjesuschrist.org/374768","Castro Velazquez, José & Cecilia","https://directory.churchofjesuschrist.org/374768/households/0bf89fa7-c35b-4286-9a96-79dd730440e6","Cecilia Castro"
-"1716865883-105","https://directory.churchofjesuschrist.org/374768","Castillo Aguilar, Abi & Kenia Yamileth","https://directory.churchofjesuschrist.org/374768/households/e0715382-5c48-4be4-8f48-d3983418e7f8","Abi Castillo"
-"1716865883-106","https://directory.churchofjesuschrist.org/374768","Castillo Aguilar, Abi & Kenia Yamileth","https://directory.churchofjesuschrist.org/374768/households/e0715382-5c48-4be4-8f48-d3983418e7f8","Kenia Yamileth Carrasco Hernandez"
-"1716865886-107","https://directory.churchofjesuschrist.org/374768","Carrion Rondon, David & Leticia","https://directory.churchofjesuschrist.org/374768/households/01d53af3-e20c-4e7f-b7e4-08396bf561dc","David Carrion"
-"1716865886-108","https://directory.churchofjesuschrist.org/374768","Carrion Rondon, David & Leticia","https://directory.churchofjesuschrist.org/374768/households/01d53af3-e20c-4e7f-b7e4-08396bf561dc","Leticia Reyes"
-"1716865886-109","https://directory.churchofjesuschrist.org/374768","Carrion Rondon, David & Leticia","https://directory.churchofjesuschrist.org/374768/households/01d53af3-e20c-4e7f-b7e4-08396bf561dc","Rebecca Carrion"
-"1716865888-110","https://directory.churchofjesuschrist.org/374768","Carrillo Piñango Perez, Luis & Mara Soto de","https://directory.churchofjesuschrist.org/374768/households/9e033d2e-45ae-4e9b-b7ec-eb88562ca984","Luis Carrillo"
-"1716865888-111","https://directory.churchofjesuschrist.org/374768","Carrillo Piñango Perez, Luis & Mara Soto de","https://directory.churchofjesuschrist.org/374768/households/9e033d2e-45ae-4e9b-b7ec-eb88562ca984","Mara Soto de Carrillo"
-"1716865890-112","https://directory.churchofjesuschrist.org/374768","Campbell, Steve","https://directory.churchofjesuschrist.org/374768/households/9b92adf8-e601-4722-808a-1f2f6d2cc547","Steve Campbell"
-"1716865893-113","https://directory.churchofjesuschrist.org/374768","Camacho, Deisi","https://directory.churchofjesuschrist.org/374768/households/3854d0ca-1d36-4736-a1da-17161bf271cb","Deisi Camacho"
-"1716865895-114","https://directory.churchofjesuschrist.org/374768","Caceres Alcerro, Francisco & Carolina","https://directory.churchofjesuschrist.org/374768/households/29bfc859-f60a-4172-9d29-51c1ecf595f0","Francisco Quiroz"
-"1716865895-115","https://directory.churchofjesuschrist.org/374768","Caceres Alcerro, Francisco & Carolina","https://directory.churchofjesuschrist.org/374768/households/29bfc859-f60a-4172-9d29-51c1ecf595f0","Carolina Quiroz"
-"1716865897-116","https://directory.churchofjesuschrist.org/374768","Burgos Gomez, John Hairo","https://directory.churchofjesuschrist.org/374768/households/6700ca26-3a54-46c4-bbb9-e08c5b2520e6","John Hairo Burgos Gomez"
-"1716865899-117","https://directory.churchofjesuschrist.org/374768","Becerra Becerra, Alexis & Soledad","https://directory.churchofjesuschrist.org/374768/households/0e878336-991a-47cd-be20-5f0011842cce","Alexis Becerra"
-"1716865899-118","https://directory.churchofjesuschrist.org/374768","Becerra Becerra, Alexis & Soledad","https://directory.churchofjesuschrist.org/374768/households/0e878336-991a-47cd-be20-5f0011842cce","Soledad Becerra"
-"1716865902-119","https://directory.churchofjesuschrist.org/374768","Arita, Juana","https://directory.churchofjesuschrist.org/374768/households/08ac3c99-cf7b-4633-9fd7-20fc41d38386","Juana Arita"
-"1716865904-120","https://directory.churchofjesuschrist.org/374768","Arevalo Marmolejo, Antonio & Angelica","https://directory.churchofjesuschrist.org/374768/households/b50b27e7-3545-4675-85fe-41ad69d3dad2","Antonio Ochoa"
-"1716865904-121","https://directory.churchofjesuschrist.org/374768","Arevalo Marmolejo, Antonio & Angelica","https://directory.churchofjesuschrist.org/374768/households/b50b27e7-3545-4675-85fe-41ad69d3dad2","Angelica Vera"
-"1716865906-122","https://directory.churchofjesuschrist.org/374768","Arellano, Nury","https://directory.churchofjesuschrist.org/374768/households/626d854b-78a3-4b91-9930-f3866c45581c","Nury Arellano"
-"1716865909-123","https://directory.churchofjesuschrist.org/374768","Amaya, Sarahy","https://directory.churchofjesuschrist.org/374768/households/791e75ee-6f30-4869-a78b-010c8b9db5f6","Sarahy Amaya"
-"1716865911-124","https://directory.churchofjesuschrist.org/374768","Amaya Vasquez, José","https://directory.churchofjesuschrist.org/374768/households/a03d8b7f-d50d-4ed9-a682-8077107e5abf","José Amaya Vasquez"
-"1716865913-125","https://directory.churchofjesuschrist.org/374768","Almonte, Julio","https://directory.churchofjesuschrist.org/374768/households/3ba9bef5-9a5a-4383-978c-5f1744265843","Julio Almonte"
-"1716865916-126","https://directory.churchofjesuschrist.org/374768","Alegre, Fabrizio & Melissa","https://directory.churchofjesuschrist.org/374768/households/c364c01c-e1d5-405e-93cf-c0846a6fa6fc","Fabrizio Alegre"
-"1716865916-127","https://directory.churchofjesuschrist.org/374768","Alegre, Fabrizio & Melissa","https://directory.churchofjesuschrist.org/374768/households/c364c01c-e1d5-405e-93cf-c0846a6fa6fc","Melissa Alegre"
-"1716865918-128","https://directory.churchofjesuschrist.org/374768","Alegre Rodriguez, Manuel & Caridad","https://directory.churchofjesuschrist.org/374768/households/a0021abb-e40b-4a73-8add-60c0b16df1ec","Manuel Alegre Rodriguez"
-"1716865918-129","https://directory.churchofjesuschrist.org/374768","Alegre Rodriguez, Manuel & Caridad","https://directory.churchofjesuschrist.org/374768/households/a0021abb-e40b-4a73-8add-60c0b16df1ec","Caridad Alegre"
+﻿Susi Zúñiga
+Francisco Zúñiga hijo
+Francisco Zúñiga
+Rosalba Zúñiga
+Alejandro Zúñiga
+Mariaelena Zuñiga
+Adofo Zuñiga H
+Nicolas Zanni Morales
+Reina Elizabeth Villalta Licona
+Victor Garcia
+Jaqueline Garcia
+Luz Vera
+Oscar J Rojo Moreno
+Paloma Vera
+Santiago Vallejos
+Estefany Valendia
+Julio Trejo
+Ivan Trejo
+Fabiola Trejo
+César Trejo
+Jenny Trejo
+Michael Temple
+Jenny Vidal Temple
+Fernando Soto
+Darling Somarriba
+Josue Sion
+Thania Sion
+Arturo Segundo
+Tasha Sánchez
+José Salvador
+Richard Salinas
+Emily Salinas
+Johan Ruiz
+Monica Ruiz
+Braulio Rosas
+Yadira Lopez de Rosas
+Hector Rosales
+Carmen Rondon
+Ligia Quiroz
+Estela Quiroz
+Henry Pinto
+María José Pinto
+Gonzalo Perfetti
+Daniel Parkus
+Cindy Parkus
+Omaira Pacheco
+Rosario Pablo
+Arlette Morales-Pablo
+Juan Navarro
+Darey Navarro
+Juan Navarro hijo
+Germán Muñoz
+Alonso Muchacho
+Maria Moreno
+Mickell Morales
+Cynthia Morales-Pablo
+Marlon Menendez
+Patricia Mencia
+Daniela Mencia
+Kathy Martinez
+Jose Martinez
+Axel Martinez
+Maria Marquina
+Carlos A Marquez
+Sorayda Marquez
+Amador Lozano
+Ana Lozano
+Esmeralda Lozano
+Diana Lopez
+Daniela Lopez
+Carlos Lopez
+Bessy Velasquez de Lopez
+Rolando Lopez
+Gladis Lopez
+José Lizama
+Casimir Labrousse
+Jose Carlos Martinez Morales
+Alejandra Jimenez de Martinez
+Tony Jerez
+Manuel Hernández
+Elena Hernandez
+Argemiro Hernandez
+Jimmy Hernandez Gil
+Danny Reyes
+Nicole Reyes
+Reynaldo Guzman Jr.
+San Juanita Guzman
+Marie Claire Gonzalez
+Rubén Gonzales
+Sandra Gil Pinto
+Joel Gardner
+Katie Gardner
+Carolyn Gardner
+Christina Gardner
+Elizabeth Gardner
+Peter Gardner
+David Galdamez
+Karla Galdamez
+Juan Durán
+Nelky Destine
+Adriana Del Castillo
+Ana Luisa Cepeda
+José Navarrete
+Cecilia Castro
+Abi Castillo
+Kenia Yamileth Carrasco Hernandez
+David Carrion
+Leticia Reyes
+Rebecca Carrion
+Luis Carrillo
+Mara Soto de Carrillo
+Steve Campbell
+Deisi Camacho
+Francisco Quiroz
+Carolina Quiroz
+John Hairo Burgos Gomez
+Alexis Becerra
+Soledad Becerra
+Juana Arita
+Antonio Ochoa
+Angelica Vera
+Nury Arellano
+Sarahy Amaya
+José Amaya Vasquez
+Julio Almonte
+Fabrizio Alegre
+Melissa Alegre
+Manuel Alegre Rodriguez
+Caridad Alegre
